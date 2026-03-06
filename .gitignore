@@ -1,0 +1,19 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build outputs / dependencies (not relevant in a docs-only repo,
+# but listed here to prevent accidental commits)
+node_modules/
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
